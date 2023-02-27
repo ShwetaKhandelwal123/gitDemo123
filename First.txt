@@ -9,3 +9,7 @@ adding line for authentication process
 
 
 adding SSH key 
+
+adding this line from local
+
+adding line from qa
